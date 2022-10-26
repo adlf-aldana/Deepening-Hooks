@@ -1,3 +1,5 @@
+import { CounterApp } from "./Components/CounterApp";
+
 export const HookApp = () => {
-  return <div>HookApp</div>;
+  return <CounterApp />;
 };
